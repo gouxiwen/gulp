@@ -1,0 +1,9 @@
+{
+    "presets": [
+     	["@babel/env",
+		{
+			"modules": false // 关闭 esm 转化
+		}
+		]
+    ]
+}
